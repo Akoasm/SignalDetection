@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#353B41</color>
+    <color name="colorPrimaryDark">#353B41</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="line">#e5e5e5</color>
+    <color name="titlebackground">#f6f6f6</color>
+    <color name="profile">#7f7f7f</color>
+    <color name="detailed">#363636</color>
+    <color name="progressbadly">#e84c3d</color>
+    <color name="progressbetter">#3099d3</color>
+    <color name="progressbest">#1bbc9b</color>
+    <color name="progressbackground">#eaf5fb</color>
+</resources>
